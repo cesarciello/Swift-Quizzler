@@ -1,7 +1,7 @@
 #  Quizzler
 
 ## O Projeto
-Aplicativo de perguntas e respostas triviais sobre conhecimentos gerais. empregando o Design Pattern MVC, Class and Structs, clean code e "segue" navegação.
+Aplicativo de perguntas e respostas triviais sobre conhecimentos gerais. empregando o Design Pattern MVC, Class and Structs, clean code e "segue" navigation.
 
 ## The Project
 
